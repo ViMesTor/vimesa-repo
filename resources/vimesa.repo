@@ -1,0 +1,6 @@
+[vimesa-devel]
+name=vimesa repository devel
+baseurl=http://rbrepo.redborder.lan/vimesa/
+gpgcheck=0
+enabled=1
+sslcheck=0
